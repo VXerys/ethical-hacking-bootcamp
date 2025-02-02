@@ -187,4 +187,8 @@ https://example.com [200 OK]
 ---
 
 ### 📖 **Next Steps**
-In the next episode, we will delve deeper into WhatWeb by exploring more aggressive scan modes and experimenting with different options. Stay tuned for more advanced techniques and practical applications!
+In the next episode, we will delve deeper into WhatWeb by exploring more aggressive scan modes and experimenting with different options:
+[2. Whatweb Stealthy Scan](2-WhatWeb-Stealthy-Scan.md)
+
+[Previous Episode](1-Obtaining-IP-Address-and-Physical-Address-Using-Whois.md)
+
