@@ -172,6 +172,6 @@ Passive Information Gathering involves collecting data indirectly through third-
 ---
 
 ### 📖 **Next Steps**
-In the next episodes, we will explore specific tools and techniques for both active and passive information gathering in greater detail. Stay tuned for practical demonstrations and advanced strategies!
+In the next episodes, we will explore specific tools and techniques for both active and passive information gathering in greater detail:
 
-[1.Obtaining IP Address, Physical Address Using Whois](1-Obtaining-IP-Address-Physical-Address-Using-Whois.md)
+[1. Obtaining IP Address, Physical Address Using Whois](1-Obtaining-IP-Address-and-Physical-Address-Using-Whois.md)
