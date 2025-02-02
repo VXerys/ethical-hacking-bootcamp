@@ -130,4 +130,8 @@ In this episode, we dive into the basics of information gathering by learning ho
 ---
 
 ### 📖 **Next Steps**
-In the next episode, we will explore more advanced techniques for information gathering, such as port scanning and vulnerability assessment. Stay tuned!
+In the next episode, we will explore more advanced techniques for information gathering, such as port scanning and vulnerability assessment:
+[2. Whatweb Stealthy Scan](2-WhatWeb-Stealthy-Scan.md)
+
+[Previous Episode](0-What-is-Information-Gathering.md)
+
