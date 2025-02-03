@@ -27,6 +27,9 @@ It is the foundation of penetration testing, providing crucial insights that can
 #### 🔄 **Active Information Gathering**
 Active Information Gathering involves direct interaction with the target to collect data. This method is more intrusive and requires permission to avoid legal issues.
 
+![image](https://github.com/user-attachments/assets/4bce323b-c5f9-49b2-8735-b3fcc2e12a8a)
+
+
 ##### 🚀 **Characteristics:**
 - **Direct Interaction:** Engaging with the target to gather information.
 - **Examples:**
@@ -52,6 +55,9 @@ Active Information Gathering involves direct interaction with the target to coll
 
 #### 🔍 **Passive Information Gathering**
 Passive Information Gathering involves collecting data indirectly through third-party sources. This method is less intrusive and does not require direct interaction with the target.
+
+![image](https://github.com/user-attachments/assets/dbb68cba-c741-4e5f-96fb-0cc8de9d04ce)
+
 
 ##### 📡 **Characteristics:**
 - **Indirect Interaction:** Collecting data through intermediary sources.
