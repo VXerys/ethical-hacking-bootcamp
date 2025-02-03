@@ -107,6 +107,6 @@ In this episode, we guide you through the process of setting up a **vulnerable v
 ### 📝 **Next Steps**
 With the vulnerable virtual machine set up and ready, you can now proceed to the next episode to learn how to perform network scanning using tools like **Nmap**. Stay tuned for more in-depth coverage and hands-on demonstrations!
 
-[Next Episode: Practical Scanning with Nmap](next-episode.md)
+[Next Episode: Netdiscover, Discovering Hosts on a Network](03-Netdiscover.md)
 
-[Previous Episode: TCP & UDP](previous-episode.md)
+[Previous Episode: TCP & UDP](01-TCP-&-UDP.md)
