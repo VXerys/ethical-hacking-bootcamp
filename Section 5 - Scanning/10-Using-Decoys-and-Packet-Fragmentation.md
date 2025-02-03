@@ -95,6 +95,6 @@ Continue to the next episode to learn how to perform vulnerability analysis and 
 ## **Next Steps**
 Continue to the next episode to learn how to perform vulnerability analysis and prepare for exploitation. Stay tuned for more advanced techniques and practical demonstrations!
 
-[👉 **Next Episode: Security Evasion Nmap Options**](next-episode.md)
+[👉 **Next Episode: Security Evasion Nmap Options**](11-Security-Evasion-Nmap-Options.md)
 
-[👈 **Previous Episode: What is a Firewall/IDS?**](previous-episode.md)
+[👈 **Previous Episode: What is a Firewall/IDS?**](09-What-is-a-Firewall.md)
