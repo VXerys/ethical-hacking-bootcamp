@@ -169,7 +169,9 @@ for mail in emails:
   python3 email-scarper.py
   ```
 - Provide the target URL when prompted.
- 
+
+![image](https://github.com/user-attachments/assets/7b8d7e38-10d7-4fa0-8366-dfcc211867b8)
+
 ---
 
 ### 📝 **Next Steps**
@@ -177,4 +179,5 @@ Continue to the next episode to explore scanning techniques and set up a vulnera
 
 [Next Episode: Setting Up a Vulnerable Lab for Scanning](next-episode.md)
 
-[Previous Episode: Finding Usernames With Sherlock](previous-episode.md)
+[Previous Episode: Finding Usernames With Sherlock](6-Finding-Usernames-With-Sherlock.md
+)
