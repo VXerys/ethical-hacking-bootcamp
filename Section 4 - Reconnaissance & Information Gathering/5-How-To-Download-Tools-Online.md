@@ -98,6 +98,8 @@ In this episode, we explore how to download and install tools for information ga
      php Red_Hawk.php
      ```
 
+     ![image](https://github.com/user-attachments/assets/bffc023b-d871-498d-8636-e4e0c30aff46)
+
 #### 📘 **Handling Dependencies**
 - **Missing Modules:** Some tools require additional dependencies.
 - **Automatic Installation:** Some tools provide scripts to install missing dependencies.
@@ -137,12 +139,19 @@ In this episode, we explore how to download and install tools for information ga
      - IP Address: 172.217.169.206
      - Web Server: Apache
      - Cloudflare Detection: True
+    
+   ![image](https://github.com/user-attachments/assets/0c9d776b-41ad-4dc9-b121-c44f57225d9f)
+
 
 #### 📘 **Advanced Features:**
 - **Whois Lookup:** Retrieve domain registration information.
 - **Geo-IP Lookup:** Obtain geographical coordinates.
 - **DNS Lookup:** Discover DNS servers.
+  
+  ![image](https://github.com/user-attachments/assets/0c612d1c-3863-4567-bac9-39d0464a6c76)
+
 - **Nmap Port Scan:** Identify open ports (covered later).
+  
 
 ---
 
@@ -156,8 +165,9 @@ In this episode, we explore how to download and install tools for information ga
 ### 📝 **Next Steps**
 Continue to the next episode to download and run another tool called **Sherlock**. Sherlock is used to discover different accounts on various platforms based on specified usernames. Follow the same process to find, download, and install Sherlock, and test its functionality.
 
-[Next Episode: Downloading and Running Sherlock](next-episode.md)
+[Next Episode: Downloading and Running Sherlock](6-Finding-Usernames-With-Sherlock.md
+)
 
-[Previous Episode: Gathering Emails Using theHarvester & Hunter.io](previous-episode.md)
+[Previous Episode: Gathering Emails Using theHarvester & Hunter.io](4-Gathering-Emails-Using-theHarvester-&-Hunter-io.md)
 
 ---
