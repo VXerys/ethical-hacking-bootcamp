@@ -159,5 +159,6 @@ Continue to the next episode to learn how to create your first penetration testi
 
 [👉 **Next Episode: Creating Your First Penetration Testing Tool**](next-episode.md)
 
-[👈 **Previous Episode: Using Decoys and Packet Fragmentation**](previous-episode.md)
+[👈 **Previous Episode: Using Decoys and Packet Fragmentation**](10-Using-Decoys-and-Packet-Fragmentation.md
+)
 
