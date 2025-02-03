@@ -115,7 +115,7 @@ Network Distance: 1 hop
 ## **Next Steps**
 Continue to the next episode to learn how to discover the exact versions of services running on open ports. Stay tuned for more advanced techniques and practical demonstrations!
 
-[Next Episode: Detecting Version Of Service Running On An Open Port](next-episode.md)
+[Next Episode: Detecting Version Of Service Running On An Open Port](07-Detecting-Version-Of-Service-Running-On-An-Open-Port.md)
 
-[Previous Episode: Different Nmap Scan Types](previous-episode.md)
+[Previous Episode: Different Nmap Scan Types](05-Different-Nmap-Scan-Types.md)
 
