@@ -29,16 +29,18 @@ TheHarvester is a tool that collects subdomains, emails, hosts, and virtual host
 #### 📘 **Running theHarvester**
 1. **Open Terminal:**
    ```bash
-   $ harvester
+   $ theHarvester
    ```
    - **Output:**
      ```
      ERROR: the following arguments are required: -d/--domain
      ```
 
+ ![image](https://github.com/user-attachments/assets/7eab8027-5a5f-4f18-bdb9-d689e296e089)
+    
 2. **View Full Help Menu:**
    ```bash
-   $ harvester --help
+   $ theHarvester --help
    ```
    - **Options:**
      - `-d` or `--domain`: Specify the domain to search.
@@ -46,10 +48,12 @@ TheHarvester is a tool that collects subdomains, emails, hosts, and virtual host
      - `-l` or `--limit`: Set the number of search results to fetch.
      - `-f` or `--file`: Save the output to a file.
      - `-v` or `--verbose`: Enable verbose output.
+    
+  ![image](https://github.com/user-attachments/assets/e8101963-bf9d-4c58-92de-157389fafde3)
 
 3. **Example Command:**
    ```bash
-   $ harvester -d example.com -b all -l 500
+   $ theHarvester -d example.com -b all -l 500
    ```
 
 #### 📝 **Interpreting the Output**
@@ -73,13 +77,13 @@ TheHarvester is a tool that collects subdomains, emails, hosts, and virtual host
 
 #### 📘 **Example Command with Specific Source:**
 ```bash
-$ harvester -d example.com -b google -l 500
+$ theHarvester -d example.com -b google -l 500
 ```
 
 #### 📝 **Saving Results to a File**
 To save the output to a file, use the `-f` option:
 ```bash
-$ harvester -d example.com -b all -l 500 -f results.txt
+$ theHarvester -d example.com -b all -l 500 -f results.txt
 ```
 
 ---
@@ -116,6 +120,9 @@ Hunter.io is a web-based tool that provides email harvesting services. It offers
   - **Role:** Project Advisor
   - **Source:** LinkedIn, Google, etc.
 
+    ![image](https://github.com/user-attachments/assets/4d72cfe0-e762-4f8a-900c-20ecf442e174)
+
+
 #### 📘 **Filtering Results**
 - **Categories:** Filter results by department or role (e.g., IT/Engineering, Sales, Marketing).
 - **Advanced Filters:** Customize filters to refine search results.
@@ -146,8 +153,8 @@ Hunter.io is a web-based tool that provides email harvesting services. It offers
 ### 📝 **Next Steps**
 Continue to the next episode to learn how to install additional tools for information gathering. Stay tuned for more advanced techniques and practical applications!
 
-[Next Episode: Installing Additional Tools for Information Gathering](next-episode.md)
+[Next Episode: Installing Additional Tools for Information Gathering](5-How-To-Download-Tools-Online.md)
 
-[Previous Episode: Aggressive Website Technology Discovering on IP Range](previous-episode.md)
+[Previous Episode: Aggressive Website Technology Discovering on IP Range](3-Aggressive-Website-Technology-Discovering-on-IP-Range.md)
 
 
