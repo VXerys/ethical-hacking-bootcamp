@@ -193,6 +193,6 @@ Nmap recognizes six port states:
 ## **Next Steps**
 Continue to the next episode to learn how to discover the operating systems and service versions of target machines. Stay tuned for more advanced techniques and practical demonstrations!
 
-[Next Episode: Discovering Operating Systems and Service Versions](next-episode.md)
+[Next Episode: Discovering Operating Systems and Service Versions](06-Discovering-Target-Operating-System.md)
 
-[Previous Episode: Performing First Nmap Scan](previous-episode.md)
+[Previous Episode: Performing First Nmap Scan](04-Performing-First-Nmap-Scan.md)
