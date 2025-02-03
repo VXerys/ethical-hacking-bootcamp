@@ -84,6 +84,8 @@ Passive Information Gathering involves collecting data indirectly through third-
 
 ### 📝 **Goals of Information Gathering**
 
+![image](https://github.com/user-attachments/assets/03f2ca29-9a86-4998-8c0c-239510837a64)
+
 #### 🌐 **Identify Target IP Addresses**
 - **Objective:** Determine the IP addresses associated with the target.
 - **Why Important:** Essential for network mapping and identifying potential entry points.
