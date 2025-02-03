@@ -112,6 +112,6 @@ In this episode, we delve into the theory behind **scanning**, the second phase 
 ### **Next Steps**
 In the next episode, we will explore the practical application of scanning techniques using tools like Nmap and WhatWeb. Stay tuned for more in-depth coverage and hands-on demonstrations!
 
-[Next Episode: Practical Scanning with Nmap](next-episode.md)
+[Next Episode: TCP & UDP: Understanding the Protocols Behind Network Communication](01-TCP-&-UDP.md)
 
 [Previous Episode: Information Gathering](previous-episode.md)
