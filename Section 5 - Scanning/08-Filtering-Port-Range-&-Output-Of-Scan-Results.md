@@ -121,5 +121,5 @@ Continue to the next episode to learn how to discover the exact versions of serv
 [Next Episode: What is a Firewall/IDS?](09-What-is-a-Firewall.md
 )
 
-[Previous Episode: Different Nmap Scan Types](07-Detecting-Version-Of-Service-Running-On-An-Open-Port.md)
+[Previous Episode: Detecting Version of Service Running on an Open Port](07-Detecting-Version-Of-Service-Running-On-An-Open-Port.md)
 
