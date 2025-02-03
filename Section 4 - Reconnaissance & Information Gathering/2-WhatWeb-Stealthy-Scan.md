@@ -16,6 +16,8 @@ In this episode, we explore the powerful tool **WhatWeb**, designed to gather de
 
 ### 🔍 **Understanding WhatWeb**
 
+![image](https://github.com/user-attachments/assets/0258baba-4e3f-42cf-b053-5916399f7064)
+
 #### 📚 **What is WhatWeb?**
 WhatWeb is a tool that automatically identifies technologies used on websites, including:
 - Web servers
@@ -36,7 +38,7 @@ WhatWeb is a tool that automatically identifies technologies used on websites, i
 - **Plugins:** Over 1,700 plugins that detect various web technologies.
 - **Aggression Levels:** Different levels of scanning intensity, ranging from stealthy to aggressive.
 - **Verbose Output:** Detailed descriptions of detected plugins.
-
+  
 ---
 
 ### 🔍 **Stealthy Scan Mode**
@@ -63,11 +65,15 @@ whatweb <target>
 ```
 - **Target:** Can be a URL, hostname, or IP address.
 
+  ![image](https://github.com/user-attachments/assets/b476fc72-2f11-4c9e-8b97-0973279037d0)
+
 #### 📘 **Command Options**
 To view all available options, use:
 ```bash
 whatweb --help
 ```
+
+![image](https://github.com/user-attachments/assets/5084e379-e972-46ab-9606-058b60e00e37)
 
 - **Aggression Levels:**
   - `-a 1`: Stealthy (default)
@@ -76,6 +82,8 @@ whatweb --help
 
 - **Verbose Output:**
   - `-v`: Provides detailed descriptions of detected plugins.
+
+![image](https://github.com/user-attachments/assets/14796c47-5ad2-4715-9cac-7f2ebcb877f3)
 
 ---
 
