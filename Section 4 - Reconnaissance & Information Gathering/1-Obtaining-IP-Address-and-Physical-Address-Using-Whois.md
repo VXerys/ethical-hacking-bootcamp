@@ -52,6 +52,8 @@ In this episode, we dive into the basics of information gathering by learning ho
     ```
   - **Notes:**
     - The IP address returned by `nslookup` matches the one obtained via `ping`.
+      
+    ![image](https://github.com/user-attachments/assets/e9c5c8b6-60f3-4d86-ab85-cc33a4537e29)
 
 ---
 
@@ -74,6 +76,8 @@ In this episode, we dive into the basics of information gathering by learning ho
     - **Expiration Date:** 2025-03-14
     - **DNS Servers:** ns1.example.com, ns2.example.com
     - **Physical Address:** 701 10th St NW, Washington, DC 20001, USA
+      
+  ![image](https://github.com/user-attachments/assets/cb9e9ca7-fda6-4955-b3f0-885d0dc628b4)
 
 ---
 
@@ -102,6 +106,8 @@ In this episode, we dive into the basics of information gathering by learning ho
   - **Notes:**
     - The `whois` tool provides more detailed information compared to `ping` and `nslookup`.
     - Example: `whois facebook.com` returns extensive information about Facebook's domain.
+      
+  ![image](https://github.com/user-attachments/assets/581cedd0-2eda-44bd-9674-58066c474a90)
 
 ---
 
