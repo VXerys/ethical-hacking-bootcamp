@@ -136,6 +136,6 @@ In the next episode, we will delve into scanning individual hosts to identify op
 ### Next Steps
 Continue to the next episode to learn how to perform detailed scanning of individual hosts using tools like **Nmap**. Stay tuned for more in-depth coverage and hands-on demonstrations!
 
-[Next Episode: Detailed Host Scanning with Nmap](next-episode.md)
+[Next Episode: Performing First Nmap Scan](04-Performing-First-Nmap-Scan.md)
 
-[Previous Episode: Installing Vulnerable Virtual Machine](previous-episode.md)
+[Previous Episode: Installing Vulnerable Virtual Machine](02-Installing-Vulnerable-Virtual-Machine.md)
