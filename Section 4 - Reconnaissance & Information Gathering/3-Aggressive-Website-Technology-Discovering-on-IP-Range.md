@@ -1,7 +1,3 @@
-Tentu, berikut adalah revisi untuk dokumentasi episode **Aggressive Website Technology Discovering on IP Range** dengan navigasi episode yang lebih sederhana dan menyambung dengan format yang telah saya buat sebelumnya:
-
----
-
 ## **Aggressive Website Technology Discovering on IP Range**
 
 ### 📝 **Overview**
@@ -43,6 +39,8 @@ In this episode, we expand our knowledge of the **WhatWeb** tool by demonstratin
 ```bash
 whatweb --aggression 3 --verbose --no-errors <IP Range>
 ```
+
+![image](https://github.com/user-attachments/assets/3c3f4256-d1f9-4810-b9cf-e3e391bcdf6d)
 
 #### 📘 **Breaking Down the Command**
 - **`--aggression 3`**: Uses the aggressive scanning level, which performs a deeper scan and makes more HTTP requests.
@@ -92,6 +90,7 @@ To log the results of your scan to a file, use the `--log-verbose` option:
 ```bash
 whatweb --aggression 3 --verbose --no-errors --log-verbose=results.txt 192.168.1.0/24
 ```
+![image](https://github.com/user-attachments/assets/5a4bf4f7-5675-4858-86bd-0ac2410a8ecf)
 
 #### 📘 **Checking the Log File**
 After the scan completes, verify the contents of the log file:
@@ -121,10 +120,7 @@ cat results.txt
 ### 📖 **Next Steps**
 Continue to the next episode to learn how to **harvest emails** from a domain. Stay tuned for more advanced techniques and practical applications!
 
-[Next Episode: Email Harvesting from a Domain](next-episode.md)
+[Next Episode: Email Harvesting from a Domain](4-Gathering-Emails-Using-theHarvester-&-Hunter-io.md)
 
-[Previous Episode: Whatweb Stealthy Scan](previous-episode.md)
+[Previous Episode: Whatweb Stealthy Scan](2-WhatWeb-Stealthy-Scan.md)
 
----
-
-**Happy Hacking! 🚀**
