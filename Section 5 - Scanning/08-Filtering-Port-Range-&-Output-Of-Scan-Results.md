@@ -118,7 +118,8 @@ Continue to the next episode to learn how to discover the exact versions of serv
 ## **Next Steps**
 Continue to the next episode to learn how to discover the exact versions of services running on open ports. Stay tuned for more advanced techniques and practical demonstrations!
 
-[Next Episode: Discovering Service Versions](next-episode.md)
+[Next Episode: What is a Firewall/IDS?](09-What-is-a-Firewall.md
+)
 
-[Previous Episode: Different Nmap Scan Types](previous-episode.md)
+[Previous Episode: Different Nmap Scan Types](07-Detecting-Version-Of-Service-Running-On-An-Open-Port.md)
 
