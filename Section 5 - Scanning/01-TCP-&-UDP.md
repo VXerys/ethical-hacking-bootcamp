@@ -112,6 +112,6 @@ In the next episode, we will explore how to apply this knowledge in practical sc
 ### 📝 **Next Steps**
 Continue to the next episode to learn how to perform network scanning using tools like Nmap and WhatWeb. Stay tuned for more advanced topics and practical applications!
 
-[Next Episode: Practical Scanning with Nmap](next-episode.md)
+[Next Episode: Installing Vulnerable Virtual Machine](02-Installing-Vulnerable-Virtual-Machine.md)
 
-[Previous Episode: Theory Behind Scanning](previous-episode.md)
+[Previous Episode: Theory Behind Scanning](0-Theory-Behind-Scanning.md)
