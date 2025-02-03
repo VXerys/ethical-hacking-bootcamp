@@ -153,6 +153,6 @@ PORT    STATE SERVICE
 ## **Next Steps**
 Continue to the next episode to learn more advanced Nmap techniques, such as service version detection, OS detection, and script scanning. Stay tuned for more in-depth coverage and practical demonstrations!
 
-[Next Episode: Advanced Nmap Techniques](next-episode.md)
+[Next Episode: Different Nmap Scan Types](05-Different-Nmap-Scan-Types.md)
 
-[Previous Episode: Netdiscover](previous-episode.md)
+[Previous Episode: Netdiscover](03-Netdiscover.md)
