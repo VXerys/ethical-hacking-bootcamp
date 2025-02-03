@@ -1,4 +1,4 @@
-# 📚 **Finding Usernames With Sherlock**
+ls# 📚 **Finding Usernames With Sherlock**
 
 ---
 
@@ -76,6 +76,8 @@ In this episode, we explore how to download and use the **Sherlock** tool to fin
   python3 sherlock.py keyframes
   ```
 
+  ![image](https://github.com/user-attachments/assets/af6b2d3d-7d8e-4483-8dfc-8c94aca37e85)
+
 #### 📝 **Interpreting the Output:**
 - **Found Accounts:** Lists platforms where the username exists.
 - **Not Found:** Indicates platforms where the username does not exist.
@@ -127,6 +129,7 @@ Continue to the next episode to learn about a custom Python tool that can gather
 
 [Next Episode: Custom Python Tool for Email Harvesting](next-episode.md)
 
-[Previous Episode: How To Download Tools Online](previous-episode.md)
+[Previous Episode: How To Download Tools Online](5-How-To-Download-Tools-Online.md
+)
 
 ---
