@@ -127,7 +127,8 @@ Found on:
 ### 📝 **Next Steps**
 Continue to the next episode to learn about a custom Python tool that can gather even more emails than the built-in tools in Kali Linux. Stay tuned for more advanced techniques and practical applications!
 
-[Next Episode: Custom Python Tool for Email Harvesting](next-episode.md)
+[Next Episode: Custom Python Tool for Email Harvesting](7-Email-Scraper-Tool-In-Python-3.md
+)
 
 [Previous Episode: How To Download Tools Online](5-How-To-Download-Tools-Online.md
 )

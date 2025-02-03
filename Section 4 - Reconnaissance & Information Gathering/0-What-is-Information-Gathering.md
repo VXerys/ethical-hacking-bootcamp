@@ -2,6 +2,8 @@
 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EH6vE97qIP4?si=CWv02yLiFVZRWmfk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## 🌐 **Title: What is Information Gathering?**
 
 ### 📝 **Overview**
