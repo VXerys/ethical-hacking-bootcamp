@@ -121,6 +121,6 @@ Continue to the next episode to learn how to bypass firewalls, Intrusion Detecti
 ## **Next Steps**
 Continue to the next episode to learn how to bypass firewalls, Intrusion Detection Systems (IDS), and Intrusion Prevention Systems (IPS) using Nmap. Stay tuned for more advanced techniques and practical demonstrations!
 
-[Next Episode: Bypassing Firewalls and IDS/IPS](next-episode.md)
+[Next Episode: Filtering Port Range & Output of Scan Results](08-Filtering-Port-Range-&-Output-Of-Scan-Results.md)
 
-[Previous Episode: Filtering Port Range & Output of Scan Results](previous-episode.md)
+[Previous Episode: Discovering Target Operating System](06-Discovering-Target-Operating-System.md)
