@@ -95,6 +95,8 @@ PORT     STATE SERVICE       VERSION
 |_  System time: 2023-10-05T14:45:16-07:00
 ```
 
+![image](https://github.com/user-attachments/assets/3fa70049-1d9a-4e65-9238-3e5d8a98ba02)
+
 ### 5. **Using the Results**
 Once you have the version information, you can:
 - **Search for Known Vulnerabilities**: Use the version number to search for known vulnerabilities on the internet.
