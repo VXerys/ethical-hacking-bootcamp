@@ -3,6 +3,9 @@
 ## 🎥 Episode Overview
 In this episode, we will explore the basics of firewalls and Intrusion Detection Systems (IDS) and how they impact our ability to perform effective network scans. Understanding these concepts is crucial for ethical hackers and penetration testers to develop strategies for bypassing security measures.
 
+![image](https://github.com/user-attachments/assets/09238344-722b-4437-be83-b3734c908e01)
+
+
 ## 🛠️ Tools & Prerequisites
 Ensure you have the following tools and environments set up:
 
@@ -12,6 +15,8 @@ Ensure you have the following tools and environments set up:
 - **Linux Terminal**: Essential for executing Nmap commands.
 
 ## 🔍 Key Takeaways
+
+![image](https://github.com/user-attachments/assets/fa6c66c0-266b-4762-a2b0-ca4b75398b8d)
 
 ### 1. **Understanding Firewalls**
 A **firewall** is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules. There are two main types of firewalls:
