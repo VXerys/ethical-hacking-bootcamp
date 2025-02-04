@@ -5,6 +5,8 @@
 ## **Overview**
 In this episode, we delve into the theory behind **scanning**, the second phase of penetration testing. After completing the information gathering phase, we move on to scanning to gain a deeper understanding of the target's technical aspects. Scanning involves interacting with the target to identify open ports, services, and potential vulnerabilities.
 
+![image](https://github.com/user-attachments/assets/b68e9a80-09eb-4ca4-8c44-db02ee794671)
+
 ---
 
 ### **Introduction to Scanning**
@@ -33,6 +35,9 @@ In this episode, we delve into the theory behind **scanning**, the second phase 
 - **Active Scanning:** Directly interacts with the target to gather information, such as sending packets and analyzing responses.
 - **Passive Scanning:** Observes traffic without interacting with the target.
 
+![image](https://github.com/user-attachments/assets/a838f756-573a-4b6e-afe4-e589ef4c9bfb)
+
+
 ---
 
 ### **Types of Scanning**
@@ -49,10 +54,15 @@ In this episode, we delve into the theory behind **scanning**, the second phase 
 - **Port 25 (SMTP):** Used for sending emails.
 - **Port 53 (DNS):** Domain Name System, used for resolving domain names to IP addresses.
 
+![image](https://github.com/user-attachments/assets/4d8fceac-b330-4891-8de3-77e2bc81c876)
+
 #### **Why Are Ports Important?**
 - **Open Ports:** Indicate services that are accessible and potentially exploitable.
 - **Closed Ports:** Do not respond to connection attempts.
 - **Filtered Ports:** Blocked by firewalls or other security measures.
+
+![image](https://github.com/user-attachments/assets/10ec2a27-f90a-448f-b442-f0012088197b)
+
 
 ---
 
@@ -77,6 +87,8 @@ In this episode, we delve into the theory behind **scanning**, the second phase 
 
 ### **Goals of Scanning**
 
+![image](https://github.com/user-attachments/assets/c6d92a02-7991-4b1e-81ff-a08865bcb6f7)
+
 #### **Primary Goals**
 - **Identify Open Ports:** Locate ports that are open and potentially exploitable.
 - **Discover Running Services:** Determine which services are running on open ports.
@@ -87,6 +99,8 @@ In this episode, we delve into the theory behind **scanning**, the second phase 
 - **Target:** A website hosted on Port 80.
 - **Objective:** Determine if Port 80 is open and identify the web server.
 - **Tools:** Nmap, WhatWeb.
+
+![image](https://github.com/user-attachments/assets/52d77bef-0cf0-4a70-920c-1eebf18c6862)
 
 ---
 
