@@ -119,6 +119,12 @@ PORT    STATE SERVICE
 
 ---
 
+### **Nmap Reference Guide**
+```bash
+man nmap
+```
+---
+
 ## **Other Nmap Scan Types**
 
 ### **TCP ACK Scan (-sA)**
@@ -189,6 +195,10 @@ Nmap recognizes six port states:
 - **FTP Relay Host (-sF):** Uses FTP bounce for scanning.
 
 ---
+
+## **Nmap Cheat Sheet💻☠** 
+[Klik ini.](https://zerotomastery.io/cheatsheets/nmap-cheat-sheet/?utm_source=udemy&utm_medium=coursecontent)
+
 
 ## **Next Steps**
 Continue to the next episode to learn how to discover the operating systems and service versions of target machines. Stay tuned for more advanced techniques and practical demonstrations!

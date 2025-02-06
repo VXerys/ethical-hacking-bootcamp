@@ -35,6 +35,8 @@ Nmap (Network Mapper) is a free and open-source network scanner used to discover
   nmap 192.168.1.6
   ```
 
+![image](https://github.com/user-attachments/assets/6bfd0bb3-43b3-4a55-aa1b-49d22a888f4c)
+
 ### **Interpreting the Output**
 - **Host Status:** Reports whether the host is up or down.
 - **Open Ports:** Lists open ports on the target machine.

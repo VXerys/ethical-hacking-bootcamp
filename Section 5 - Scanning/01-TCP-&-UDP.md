@@ -5,6 +5,9 @@
 ## 📝 **Overview**
 In this episode, we provide a foundational understanding of **TCP (Transmission Control Protocol)** and **UDP (User Datagram Protocol)**, two essential protocols used for transmitting data over the internet. These protocols form the backbone of modern networking, ensuring efficient and reliable communication between devices. Understanding TCP and UDP is crucial for anyone starting in ethical hacking and penetration testing.
 
+![image](https://github.com/user-attachments/assets/1e8c2b4f-e862-4f55-9720-cb97d9893331)
+
+
 ---
 
 ### 🌐 **Introduction to TCP and UDP**
@@ -18,6 +21,8 @@ Both TCP and UDP are part of the **Transport Layer** in the **OSI Model** and ar
 ---
 
 ### 🚀 **TCP: Reliable and Ordered Data Transfer**
+
+![image](https://github.com/user-attachments/assets/142a1dd7-cd6f-484d-adda-bcb6efae0a42)
 
 #### 🚀 **TCP Characteristics**
 - **Connection-Oriented:** Establishes a connection before data transfer.
@@ -49,9 +54,14 @@ Both TCP and UDP are part of the **Transport Layer** in the **OSI Model** and ar
 - **Email:** SMTP, IMAP, and POP3 use TCP for secure and ordered email transmission.
 - **File Transfer:** FTP and SFTP rely on TCP for reliable file transfers.
 
+![image](https://github.com/user-attachments/assets/0a9729d0-80e9-4916-a1c2-dd2c63e853bf)
+
 ---
 
 ### ⏩ **UDP: Fast and Unreliable Data Transfer**
+
+![image](https://github.com/user-attachments/assets/baae6c40-e2ec-4847-b428-c03cf2ebc0ab)
+
 
 #### ⏩ **UDP Characteristics**
 - **Connectionless:** No connection establishment required.
